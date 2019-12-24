@@ -7,12 +7,3 @@ F:\LapTrinh\Data\LapTrinh\C#\ManagementStudent\MgStudent\DTO_Info\obj\Debug\DTO_
 F:\LapTrinh\Data\LapTrinh\C#\ManagementStudent\MgStudent\DTO_Info\obj\Debug\DTO_Info.csproj.CoreCompileInputs.cache
 F:\LapTrinh\Data\LapTrinh\C#\ManagementStudent\MgStudent\DTO_Info\obj\Debug\DTO_Info.exe
 F:\LapTrinh\Data\LapTrinh\C#\ManagementStudent\MgStudent\DTO_Info\obj\Debug\DTO_Info.pdb
-E:\LapTrinh\C#\ManagementStudent\MgStudent\DTO_Info\bin\Debug\DTO_Info.exe.config
-E:\LapTrinh\C#\ManagementStudent\MgStudent\DTO_Info\bin\Debug\DTO_Info.exe
-E:\LapTrinh\C#\ManagementStudent\MgStudent\DTO_Info\bin\Debug\DTO_Info.pdb
-E:\LapTrinh\C#\ManagementStudent\MgStudent\DTO_Info\obj\Debug\DTO_Info.csprojAssemblyReference.cache
-E:\LapTrinh\C#\ManagementStudent\MgStudent\DTO_Info\obj\Debug\DTO_Info.Properties.Resources.resources
-E:\LapTrinh\C#\ManagementStudent\MgStudent\DTO_Info\obj\Debug\DTO_Info.csproj.GenerateResource.cache
-E:\LapTrinh\C#\ManagementStudent\MgStudent\DTO_Info\obj\Debug\DTO_Info.csproj.CoreCompileInputs.cache
-E:\LapTrinh\C#\ManagementStudent\MgStudent\DTO_Info\obj\Debug\DTO_Info.exe
-E:\LapTrinh\C#\ManagementStudent\MgStudent\DTO_Info\obj\Debug\DTO_Info.pdb

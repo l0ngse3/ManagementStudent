@@ -7,11 +7,3 @@ F:\LapTrinh\Data\LapTrinh\C#\ManagementStudent\MgStudent\DAO_\obj\Debug\DAO.cspr
 F:\LapTrinh\Data\LapTrinh\C#\ManagementStudent\MgStudent\DAO_\obj\Debug\DAO_.exe
 F:\LapTrinh\Data\LapTrinh\C#\ManagementStudent\MgStudent\DAO_\obj\Debug\DAO_.pdb
 F:\LapTrinh\Data\LapTrinh\C#\ManagementStudent\MgStudent\DAO_\obj\Debug\DAO.csprojAssemblyReference.cache
-E:\LapTrinh\C#\ManagementStudent\MgStudent\DAO_\bin\Debug\DAO_.exe.config
-E:\LapTrinh\C#\ManagementStudent\MgStudent\DAO_\bin\Debug\DAO_.exe
-E:\LapTrinh\C#\ManagementStudent\MgStudent\DAO_\bin\Debug\DAO_.pdb
-E:\LapTrinh\C#\ManagementStudent\MgStudent\DAO_\obj\Debug\DAO_.Properties.Resources.resources
-E:\LapTrinh\C#\ManagementStudent\MgStudent\DAO_\obj\Debug\DAO.csproj.GenerateResource.cache
-E:\LapTrinh\C#\ManagementStudent\MgStudent\DAO_\obj\Debug\DAO.csproj.CoreCompileInputs.cache
-E:\LapTrinh\C#\ManagementStudent\MgStudent\DAO_\obj\Debug\DAO_.exe
-E:\LapTrinh\C#\ManagementStudent\MgStudent\DAO_\obj\Debug\DAO_.pdb
